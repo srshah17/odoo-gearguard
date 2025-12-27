@@ -15,7 +15,7 @@ Steps:
 1. Open a terminal in the project root:
 
 ```bash
-cd /Users/shreyshah/AndroidStudioProjects/gearguard
+cd path/to/gearguard
 ```
 
 2. Install dependencies:
